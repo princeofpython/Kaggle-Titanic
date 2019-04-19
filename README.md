@@ -1,6 +1,6 @@
 # Kaggle-Titanic
 This is my solution for Titanic Disaster problem in Kaggle.\
-I didn't make any report for now, I will improve this soon.\
+I didn't make any report for now, I will make it soon.\
 Improvements are welcome.
 
 ## Results:
